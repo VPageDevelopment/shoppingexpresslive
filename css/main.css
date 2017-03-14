@@ -1,0 +1,23 @@
+.x_panel
+{
+	background:none;
+	border: 0px solid #E6E9ED;
+}
+body .container.body .right_col
+{
+	 background-image:url("../admin/images/46.jpg");
+	color:#000;
+}
+table tbody tr
+{
+	background-color:#fff;
+}
+footer
+{
+	background-color:#EDEDED;
+}
+a.downline 
+ {
+	 color:#000 !important; 
+ }
+ 

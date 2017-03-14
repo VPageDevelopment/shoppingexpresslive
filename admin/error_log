@@ -1,0 +1,200 @@
+[02-Mar-2017 20:31:00 Asia/Kolkata] PHP Notice:  Undefined index: cart_products in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 5
+[02-Mar-2017 20:31:00 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 64
+[02-Mar-2017 20:31:00 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 94
+[02-Mar-2017 20:31:00 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 94
+[02-Mar-2017 20:31:00 Asia/Kolkata] PHP Notice:  Undefined variable: result in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 103
+[02-Mar-2017 20:31:00 Asia/Kolkata] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 103
+[02-Mar-2017 20:31:00 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 161
+[02-Mar-2017 20:31:00 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 195
+[02-Mar-2017 20:31:00 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 195
+[02-Mar-2017 20:31:00 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 195
+[02-Mar-2017 20:31:00 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 195
+[02-Mar-2017 20:31:00 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 195
+[02-Mar-2017 20:31:00 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 195
+[02-Mar-2017 20:31:00 Asia/Kolkata] PHP Notice:  Undefined variable: result in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 204
+[02-Mar-2017 20:31:00 Asia/Kolkata] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 204
+[02-Mar-2017 23:39:22 Asia/Kolkata] PHP Notice:  Undefined index: cart_products in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 5
+[02-Mar-2017 23:39:22 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 64
+[02-Mar-2017 23:39:22 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 94
+[02-Mar-2017 23:39:22 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 94
+[02-Mar-2017 23:39:22 Asia/Kolkata] PHP Notice:  Undefined variable: result in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 103
+[02-Mar-2017 23:39:22 Asia/Kolkata] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 103
+[02-Mar-2017 23:39:22 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 161
+[02-Mar-2017 23:39:22 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 195
+[02-Mar-2017 23:39:22 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 195
+[02-Mar-2017 23:39:22 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 195
+[02-Mar-2017 23:39:22 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 195
+[02-Mar-2017 23:39:22 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 195
+[02-Mar-2017 23:39:22 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 195
+[02-Mar-2017 23:39:22 Asia/Kolkata] PHP Notice:  Undefined variable: result in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 204
+[02-Mar-2017 23:39:22 Asia/Kolkata] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 204
+[03-Mar-2017 18:36:16 Asia/Kolkata] PHP Notice:  Undefined index: ta in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 7
+[03-Mar-2017 18:36:16 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 45
+[03-Mar-2017 18:36:16 Asia/Kolkata] PHP Notice:  Undefined index: ta in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 46
+[03-Mar-2017 18:36:16 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 59
+[03-Mar-2017 18:36:39 Asia/Kolkata] PHP Notice:  Undefined index: ta in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 7
+[03-Mar-2017 18:36:39 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 45
+[03-Mar-2017 18:36:39 Asia/Kolkata] PHP Notice:  Undefined index: ta in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 46
+[03-Mar-2017 18:36:39 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 59
+[03-Mar-2017 18:36:45 Asia/Kolkata] PHP Notice:  Undefined index: ta in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 7
+[03-Mar-2017 18:36:45 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 45
+[03-Mar-2017 18:36:45 Asia/Kolkata] PHP Notice:  Undefined index: ta in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 46
+[03-Mar-2017 18:36:45 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 59
+[06-Mar-2017 12:37:54 Asia/Kolkata] PHP Notice:  Undefined index: ta in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 7
+[06-Mar-2017 12:37:54 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 45
+[06-Mar-2017 12:37:54 Asia/Kolkata] PHP Notice:  Undefined index: ta in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 46
+[06-Mar-2017 12:37:54 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 59
+[06-Mar-2017 12:38:05 Asia/Kolkata] PHP Notice:  Undefined variable: cartItems in /home/vpageinc/shoppingexpress.co.in/admin/save-login.php on line 29
+[06-Mar-2017 12:38:05 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/vpageinc/shoppingexpress.co.in/admin/save-login.php on line 29
+[06-Mar-2017 13:59:29 Asia/Kolkata] PHP Notice:  Undefined index: ta in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 7
+[06-Mar-2017 13:59:29 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 45
+[06-Mar-2017 13:59:29 Asia/Kolkata] PHP Notice:  Undefined index: ta in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 46
+[06-Mar-2017 13:59:29 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 59
+[06-Mar-2017 13:59:36 Asia/Kolkata] PHP Notice:  Undefined variable: cartItems in /home/vpageinc/shoppingexpress.co.in/admin/save-login.php on line 29
+[06-Mar-2017 13:59:36 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/vpageinc/shoppingexpress.co.in/admin/save-login.php on line 29
+[06-Mar-2017 14:12:15 Asia/Kolkata] PHP Notice:  Undefined index: ta in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 7
+[06-Mar-2017 14:12:15 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 45
+[06-Mar-2017 14:12:15 Asia/Kolkata] PHP Notice:  Undefined index: ta in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 46
+[06-Mar-2017 14:12:15 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 59
+[06-Mar-2017 17:25:56 Asia/Kolkata] PHP Notice:  Undefined index: cart_products in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 5
+[06-Mar-2017 17:25:56 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 64
+[06-Mar-2017 17:25:56 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 94
+[06-Mar-2017 17:25:56 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 94
+[06-Mar-2017 17:25:56 Asia/Kolkata] PHP Notice:  Undefined variable: result in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 103
+[06-Mar-2017 17:25:56 Asia/Kolkata] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 103
+[06-Mar-2017 17:25:56 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 161
+[06-Mar-2017 17:25:56 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 195
+[06-Mar-2017 17:25:56 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 195
+[06-Mar-2017 17:25:56 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 195
+[06-Mar-2017 17:25:56 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 195
+[06-Mar-2017 17:25:56 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 195
+[06-Mar-2017 17:25:56 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 195
+[06-Mar-2017 17:25:56 Asia/Kolkata] PHP Notice:  Undefined variable: result in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 204
+[06-Mar-2017 17:25:56 Asia/Kolkata] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 204
+[06-Mar-2017 18:06:56 Asia/Kolkata] PHP Notice:  Undefined index: ta in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 7
+[06-Mar-2017 18:06:56 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 45
+[06-Mar-2017 18:06:56 Asia/Kolkata] PHP Notice:  Undefined index: ta in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 46
+[06-Mar-2017 18:06:56 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 59
+[06-Mar-2017 18:08:45 Asia/Kolkata] PHP Notice:  Undefined index: ta in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 7
+[06-Mar-2017 18:08:45 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 45
+[06-Mar-2017 18:08:45 Asia/Kolkata] PHP Notice:  Undefined index: ta in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 46
+[06-Mar-2017 18:08:45 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 59
+[06-Mar-2017 18:11:50 Asia/Kolkata] PHP Notice:  Undefined index: ta in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 7
+[06-Mar-2017 18:11:50 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 45
+[06-Mar-2017 18:11:50 Asia/Kolkata] PHP Notice:  Undefined index: ta in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 46
+[06-Mar-2017 18:11:50 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 59
+[06-Mar-2017 18:12:01 Asia/Kolkata] PHP Notice:  Undefined variable: cartItems in /home/vpageinc/shoppingexpress.co.in/admin/save-login.php on line 29
+[06-Mar-2017 18:12:01 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/vpageinc/shoppingexpress.co.in/admin/save-login.php on line 29
+[06-Mar-2017 18:12:19 Asia/Kolkata] PHP Notice:  Undefined index: ta in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 7
+[06-Mar-2017 18:12:19 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 45
+[06-Mar-2017 18:12:19 Asia/Kolkata] PHP Notice:  Undefined index: ta in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 46
+[06-Mar-2017 18:12:19 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 59
+[06-Mar-2017 18:12:19 Asia/Kolkata] PHP Notice:  Undefined index: mode in /home/vpageinc/shoppingexpress.co.in/admin/profile.php on line 73
+[06-Mar-2017 18:12:26 Asia/Kolkata] PHP Notice:  Undefined variable: cartItems in /home/vpageinc/shoppingexpress.co.in/admin/save-login.php on line 29
+[06-Mar-2017 18:12:26 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/vpageinc/shoppingexpress.co.in/admin/save-login.php on line 29
+[06-Mar-2017 18:12:57 Asia/Kolkata] PHP Notice:  Undefined index: mode in /home/vpageinc/shoppingexpress.co.in/admin/package.php on line 66
+[06-Mar-2017 18:14:30 Asia/Kolkata] PHP Notice:  Undefined index: ta in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 7
+[06-Mar-2017 18:14:30 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 45
+[06-Mar-2017 18:14:30 Asia/Kolkata] PHP Notice:  Undefined index: ta in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 46
+[06-Mar-2017 18:14:30 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 59
+[06-Mar-2017 18:14:51 Asia/Kolkata] PHP Notice:  Undefined index: ta in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 7
+[06-Mar-2017 18:14:51 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 45
+[06-Mar-2017 18:14:51 Asia/Kolkata] PHP Notice:  Undefined index: ta in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 46
+[06-Mar-2017 18:14:51 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 59
+[06-Mar-2017 18:16:04 Asia/Kolkata] PHP Notice:  Undefined index: mode in /home/vpageinc/shoppingexpress.co.in/admin/profile.php on line 73
+[06-Mar-2017 18:16:37 Asia/Kolkata] PHP Notice:  Undefined index: mode in /home/vpageinc/shoppingexpress.co.in/admin/profile.php on line 73
+[06-Mar-2017 18:16:47 Asia/Kolkata] PHP Notice:  Undefined index: mode in /home/vpageinc/shoppingexpress.co.in/admin/profile.php on line 73
+[06-Mar-2017 18:17:00 Asia/Kolkata] PHP Notice:  Undefined index: mode in /home/vpageinc/shoppingexpress.co.in/admin/package.php on line 66
+[06-Mar-2017 18:17:11 Asia/Kolkata] PHP Notice:  Undefined index: ta in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 7
+[06-Mar-2017 18:17:11 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 45
+[06-Mar-2017 18:17:11 Asia/Kolkata] PHP Notice:  Undefined index: ta in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 46
+[06-Mar-2017 18:17:11 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 59
+[07-Mar-2017 16:39:10 Asia/Kolkata] PHP Notice:  Undefined index: cart_products in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 5
+[07-Mar-2017 16:39:10 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 64
+[07-Mar-2017 16:39:11 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 94
+[07-Mar-2017 16:39:11 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 94
+[07-Mar-2017 16:39:11 Asia/Kolkata] PHP Notice:  Undefined variable: result in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 103
+[07-Mar-2017 16:39:11 Asia/Kolkata] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 103
+[07-Mar-2017 16:39:11 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 161
+[07-Mar-2017 16:39:11 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 195
+[07-Mar-2017 16:39:11 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 195
+[07-Mar-2017 16:39:11 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 195
+[07-Mar-2017 16:39:11 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 195
+[07-Mar-2017 16:39:11 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 195
+[07-Mar-2017 16:39:11 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 195
+[07-Mar-2017 16:39:11 Asia/Kolkata] PHP Notice:  Undefined variable: result in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 204
+[07-Mar-2017 16:39:11 Asia/Kolkata] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 204
+[07-Mar-2017 17:11:34 Asia/Kolkata] PHP Notice:  Undefined index: cart_products in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 5
+[07-Mar-2017 17:11:34 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 64
+[07-Mar-2017 17:11:34 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 94
+[07-Mar-2017 17:11:34 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 94
+[07-Mar-2017 17:11:34 Asia/Kolkata] PHP Notice:  Undefined variable: result in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 103
+[07-Mar-2017 17:11:34 Asia/Kolkata] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 103
+[07-Mar-2017 17:11:34 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 161
+[07-Mar-2017 17:11:34 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 195
+[07-Mar-2017 17:11:34 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 195
+[07-Mar-2017 17:11:34 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 195
+[07-Mar-2017 17:11:34 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 195
+[07-Mar-2017 17:11:34 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 195
+[07-Mar-2017 17:11:34 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 195
+[07-Mar-2017 17:11:34 Asia/Kolkata] PHP Notice:  Undefined variable: result in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 204
+[07-Mar-2017 17:11:34 Asia/Kolkata] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 204
+[11-Mar-2017 17:23:53 Asia/Kolkata] PHP Notice:  Undefined index: ta in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 7
+[11-Mar-2017 17:23:53 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 45
+[11-Mar-2017 17:23:53 Asia/Kolkata] PHP Notice:  Undefined index: ta in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 46
+[11-Mar-2017 17:23:53 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 59
+[11-Mar-2017 17:26:45 Asia/Kolkata] PHP Notice:  Undefined index: ta in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 7
+[11-Mar-2017 17:26:45 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 45
+[11-Mar-2017 17:26:45 Asia/Kolkata] PHP Notice:  Undefined index: ta in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 46
+[11-Mar-2017 17:26:45 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 59
+[13-Mar-2017 15:42:08 Asia/Kolkata] PHP Notice:  Undefined index: ta in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 7
+[13-Mar-2017 15:42:08 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 45
+[13-Mar-2017 15:42:08 Asia/Kolkata] PHP Notice:  Undefined index: ta in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 46
+[13-Mar-2017 15:42:08 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 59
+[13-Mar-2017 15:42:15 Asia/Kolkata] PHP Notice:  Undefined variable: cartItems in /home/vpageinc/shoppingexpress.co.in/admin/save-login.php on line 29
+[13-Mar-2017 15:42:15 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/vpageinc/shoppingexpress.co.in/admin/save-login.php on line 29
+[13-Mar-2017 15:42:20 Asia/Kolkata] PHP Notice:  Undefined index: mode in /home/vpageinc/shoppingexpress.co.in/admin/profile.php on line 73
+[13-Mar-2017 15:52:04 Asia/Kolkata] PHP Notice:  Undefined index: ta in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 7
+[13-Mar-2017 15:52:04 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 45
+[13-Mar-2017 15:52:04 Asia/Kolkata] PHP Notice:  Undefined index: ta in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 46
+[13-Mar-2017 15:52:04 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 59
+[13-Mar-2017 17:49:59 Asia/Kolkata] PHP Notice:  Undefined index: ta in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 7
+[13-Mar-2017 17:49:59 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 45
+[13-Mar-2017 17:49:59 Asia/Kolkata] PHP Notice:  Undefined index: ta in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 46
+[13-Mar-2017 17:49:59 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 59
+[13-Mar-2017 17:50:08 Asia/Kolkata] PHP Notice:  Undefined variable: cartItems in /home/vpageinc/shoppingexpress.co.in/admin/save-login.php on line 29
+[13-Mar-2017 17:50:08 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/vpageinc/shoppingexpress.co.in/admin/save-login.php on line 29
+[13-Mar-2017 17:50:24 Asia/Kolkata] PHP Notice:  Undefined index: ta in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 7
+[13-Mar-2017 17:50:24 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 45
+[13-Mar-2017 17:50:24 Asia/Kolkata] PHP Notice:  Undefined index: ta in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 46
+[13-Mar-2017 17:50:24 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/index.php on line 59
+[14-Mar-2017 02:28:29 Asia/Kolkata] PHP Notice:  Undefined index: cart_products in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 5
+[14-Mar-2017 02:28:29 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 64
+[14-Mar-2017 02:28:29 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 94
+[14-Mar-2017 02:28:29 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 94
+[14-Mar-2017 02:28:29 Asia/Kolkata] PHP Notice:  Undefined variable: result in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 103
+[14-Mar-2017 02:28:29 Asia/Kolkata] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 103
+[14-Mar-2017 02:28:29 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 161
+[14-Mar-2017 02:28:29 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 195
+[14-Mar-2017 02:28:29 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 195
+[14-Mar-2017 02:28:29 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 195
+[14-Mar-2017 02:28:29 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 195
+[14-Mar-2017 02:28:29 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 195
+[14-Mar-2017 02:28:29 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 195
+[14-Mar-2017 02:28:29 Asia/Kolkata] PHP Notice:  Undefined variable: result in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 204
+[14-Mar-2017 02:28:29 Asia/Kolkata] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 204
+[14-Mar-2017 09:02:16 Asia/Kolkata] PHP Notice:  Undefined index: cart_products in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 5
+[14-Mar-2017 09:02:16 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 64
+[14-Mar-2017 09:02:16 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 94
+[14-Mar-2017 09:02:16 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 94
+[14-Mar-2017 09:02:16 Asia/Kolkata] PHP Notice:  Undefined variable: result in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 103
+[14-Mar-2017 09:02:16 Asia/Kolkata] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 103
+[14-Mar-2017 09:02:16 Asia/Kolkata] PHP Notice:  Undefined index: proceed in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 161
+[14-Mar-2017 09:02:16 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 195
+[14-Mar-2017 09:02:16 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 195
+[14-Mar-2017 09:02:16 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 195
+[14-Mar-2017 09:02:16 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 195
+[14-Mar-2017 09:02:16 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 195
+[14-Mar-2017 09:02:16 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 195
+[14-Mar-2017 09:02:16 Asia/Kolkata] PHP Notice:  Undefined variable: result in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 204
+[14-Mar-2017 09:02:16 Asia/Kolkata] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/vpageinc/shoppingexpress.co.in/admin/register.php on line 204

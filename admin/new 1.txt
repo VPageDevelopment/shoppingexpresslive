@@ -1,0 +1,4 @@
+	echo $str = "EPIN001";
+						echo '<br>';
+						echo $str2 = substr($str, 4);
+					
